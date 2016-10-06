@@ -1,0 +1,11 @@
+{
+  "name": "minghai-node-test",
+  "version": "1.0.0",
+  "description": "My testing node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "no"
+  },
+  "author": "“Minghai <“minghai.chang@sap.com”> (“http://www.sap.com)",
+  "license": "ISC"
+}
