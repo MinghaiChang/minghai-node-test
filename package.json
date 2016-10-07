@@ -1,6 +1,6 @@
 {
   "name": "minghai-node-test",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "My testing node module",
   "main": "index.js",
   "scripts": {
